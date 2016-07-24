@@ -1,7 +1,8 @@
 # Hunter Johnson 07/2016
 """ 
 this algorithm trades the S&P 500 using Google Trends data
-the indicator is a moving average (5 week window) of a term related to negative market sentiment
+the indicator is the moving average (5 week window) of a term related to market sentiment
+negative terms do better due to more volatility
 """
 import numpy as np
 import datetime
