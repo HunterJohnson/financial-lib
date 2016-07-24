@@ -4,13 +4,15 @@ def ebitda(symbol):
 def pe_ratio(symbol):  #price to earnings ratio
   return None
   
-def pb_ratio(symbol): # price to book ratio
+def price_to_book_value_ratio(symbol): # price to book ratio
   return None
   
-def debt_to_equity_ratio(symbol):
+def dividend_yield():
   return None
-
-
+  
+def dividend_payout_ratio():
+  return None
+  
 #Example data comes from the income statement, balance sheet and cash flow statement found in the Financial Statement Analysis columns in the March, May and July 2012 issues of the AAII Journal, which are linked here.	 
  	 
 #Dollar amounts are in millions of dollars.	 
@@ -114,24 +116,3 @@ def return_on_equity():
   return None
   
  
-#calculated terms:	 
-"""purchases	= 	cost of goods sold + ending inventory – beginning inventory	 
-= 	$500 + $200 – $180 = $520	 """
-
-def purchases():
-  return None
-
-"""total debt	= 	notes payable + current portion of long-term debt + long-term debt	 
-= 	$100 + $150 + $267 = $517	 """
-
-def total_debt():
-  return None
-
-"""earnings before interest and taxes	= 	net income + income taxes + interest expense	 
-= 	$82.75 + $47.25 + $100 = $230	 """
-
-def ebit():
-  return None
-  
-def ebitda():
-  return None
