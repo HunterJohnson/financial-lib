@@ -4,6 +4,9 @@ def ebitda(symbol):
 def pe_ratio(symbol):  #price to earnings ratio
   return None
   
+def pb_ratio(symbol): # price to book ratio
+  return None
+  
 def debt_to_equity_ratio(symbol):
   return None
 
