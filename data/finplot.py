@@ -1,4 +1,4 @@
-# plotting security prices including fundamental metrics & ratios
+# plotting tools for securities data including fundamental metrics & ratios
 
 import matplotlib.pyplot as plt
 import numpy as np
