@@ -1,4 +1,4 @@
-# least squares monte carlo simulation, for parallel valuation of American options
+# Longstaff-Schwartz least squares monte carlo simulation, for parallel valuation of American options
 # from Python For Finance by Yves Hilpisch
 
 import numpy as np
