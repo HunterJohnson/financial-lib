@@ -1,1 +1,1 @@
-# simulation of financial market with exchange & competing traders
+simulation of financial market with exchange & competing traders
