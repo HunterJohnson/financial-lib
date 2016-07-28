@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# example of American options pricing using binomial model
+
 from math import exp
 
 # Input stock parameters
