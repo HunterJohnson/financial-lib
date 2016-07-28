@@ -1,14 +1,4 @@
 
-'''
-Black Scholes Model
--------------------
-'''
-#from math import erf,sqrt,log,exp,pi
-from scipy.stats import norm
-from math import *
-
-version = '1.0'
-
 """ # The Black Scholes Formula
 # CallPutFlag - This is set to 'c' for call option, anything else for put
 # S - Stock price
@@ -18,7 +8,11 @@ version = '1.0'
 # d - Dividend yield
 # v - Volatility
 """
+#from math import erf,sqrt,log,exp,pi
+from scipy.stats import norm
+from math import *
 
+version = '1.0'
 
 #FOR EUROPEAN CALL
 def BlackScholes(CallPutFlag,S,K,T,r,d,v):
@@ -144,7 +138,7 @@ Gamma: second partial wrt S
 Theta: partial wrt T
 Vega: partial wrt v
 Rho: partial wrt r """
-6
+
 
 from scipy.stats import norm
 from math import *
