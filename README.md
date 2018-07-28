@@ -6,6 +6,8 @@ quantopian pipeline API / zipline backtest engine
 
 robinhood API / integration - python + JS
 
+* robinhood --> top movers/momentum, pairs, options, sentiment
+
 documentation --> https://github.com/sanko/Robinhood
 
 python API --> https://github.com/Jamonek/Robinhood
