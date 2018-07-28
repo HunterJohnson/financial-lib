@@ -18,3 +18,11 @@ interesting project --> https://github.com/codesociety/friartuck
 
 node API --> https://github.com/aurbano/robinhood-node
 
+
+https://www.quantopian.com/posts/trading-with-the-unofficial-robinhood-api-w-slash-code-examples
+
+https://github.com/aurbano/robinhood-node
+
+https://github.com/zhhrozhh/Robinhood_Portfolio
+
+https://github.com/stepbot/resiliant-trader
